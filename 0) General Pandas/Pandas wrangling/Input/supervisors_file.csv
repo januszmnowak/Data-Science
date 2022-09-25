@@ -1,0 +1,7 @@
+supervisors
+list
+Sales|1|CSO
+Marketing|2|CMO
+Finance|3|CFO
+IT|4|CTO
+end-of-file
